@@ -1,56 +1,52 @@
-# CodeIgniter 4 Framework
+<h1 align="center">Ellis Teste</h1>
 
-## What is CodeIgniter?
+<p align="center">Realizado Utilizando Framework CodeIgniter</p>
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](http://codeigniter.com).
+<p align="center">
+ <a href="#features">Features</a> •
+ <a href="#pre-requisites">Pre-Requisites</a> •
+ <a href="#technologies">Technologies</a> •
+ <a href="#author">Author</a>
+</p>
 
-This repository holds the distributable version of the framework,
-including the user guide. It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+---
 
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
+<br>
 
-The user guide corresponding to this version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
+### Register GIF
 
+<h2>
+  <img alt="Pokehub" title="Register" src="Github/gitRegister.gif" height="425" />
+</h2>
 
-## Important Change with index.php
+### Features
 
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
+- [x] Register/login with DataBase
+- [x] Json with Pokemons
+- [x] Toastr(Javascript library) for Notifications
+- [x] Error Handling
 
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
+### Pre-Requisites
 
-**Please** read the user guide for a better explanation of how CI4 works!
+Before starting, you will need to have the following tools installed on your machine:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 
-## Repository Management
+Besides, it's good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
+### Technologies
 
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
+The following tools were used in building the project:
 
-## Contributing
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Bootstrap](https://getbootstrap.com)
+- [PHP](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
+- [Jquery](https://jquery.com)
+- [Toastr](https://github.com/CodeSeven/toastr)
+---
 
-We welcome contributions from the community.
+### Author
 
-Please read the [*Contributing to CodeIgniter*](https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md) section in the development repository.
+<img alt="Peagah" title="Peagah" src="https://avatars.githubusercontent.com/u/105545343?s=400&u=7bdea01d63265349adcf159e74bf7e77160db9f8&v=4" height="100" width="100" />
 
-## Server Requirements
-
-PHP version 7.4 or higher is required, with the following extensions installed:
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
-
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
-- xml (enabled by default - don't turn it off)
+Made with 💜 by Peagah 👋
