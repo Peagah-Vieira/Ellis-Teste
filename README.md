@@ -14,7 +14,7 @@
 ### GIF
 
 <h2>
-  <img alt="Pokehub" title="Register" src="img/ellis.gif" height="425" />
+  <img src="img/Ellis.gif" height="425" />
 </h2>
 
 ### Tecnologias
