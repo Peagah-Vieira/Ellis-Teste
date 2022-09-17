@@ -11,10 +11,14 @@
 
 <br>
 
-### GIF
+### GIF & IMG
 
 <h2>
   <img src="img/Ellis.gif" height="425" />
+</h2>
+
+<h2>
+  <img src="img/banco.png" height="425" />
 </h2>
 
 ### Tecnologias
