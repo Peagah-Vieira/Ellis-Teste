@@ -15,7 +15,7 @@
 ### GIF
 
 <h2>
-  <img alt="Pokehub" title="Register" src="Github/gitRegister.gif" height="425" />
+  <img alt="Pokehub" title="Register" src=".github/ellis.gif" height="425" />
 </h2>
 
 ### Pré-Requisitos
@@ -33,8 +33,7 @@ The following tools were used in building the project:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Bootstrap](https://getbootstrap.com)
 - [PHP](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
-- [Jquery](https://jquery.com)
-- [Toastr](https://github.com/CodeSeven/toastr)
+- [CodeIgniter](https://codeigniter.com)
 ---
 
 ### Autor
