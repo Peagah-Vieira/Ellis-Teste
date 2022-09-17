@@ -18,7 +18,7 @@
 </h2>
 
 <h2>
-  <img src="img/banco.png" height="425" />
+  <img src="img/banco.png" height="425" width="300"/>
 </h2>
 
 ### Tecnologias
